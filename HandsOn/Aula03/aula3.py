@@ -25,6 +25,7 @@ def func(a):
 try:
     func()
 except Exception as e:
+
     print 'Algum problema aconteceu'
 finally:
     prinr 'Executa esse bloco'

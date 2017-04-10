@@ -1,0 +1,10 @@
+Criar um loop que pede 4 opções:
+    - Logar
+    - Inserir usuario
+    - Buscar usuario
+    - Sair
+
+A principio, ao seleciona uma das 3 primeiras opcões,
+apenas exibir na tela q a opção foi selecionada.
+Caso a ultima opção tenha sido selecionada,
+encerrar o programa

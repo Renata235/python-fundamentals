@@ -1,0 +1,15 @@
+Criar a funcionalidade de login.
+Ao selecionar a opcao de login, obter credenciais do 
+usuario e buscar no banco.
+Caso válidas, guardar informações em variável. Essas credenciais
+serao consultadas novamente, sempre que
+uma operacao for realizada
+
+Criar a tabela abaixo e inserir um registro:
+CREATE TABLE users (
+    id serial primary key,
+    usuario VARCHAR(255),
+    pass VARCHAR(255)
+);
+
+INSERT INTO users (usuario, pass) VALUES('', '');

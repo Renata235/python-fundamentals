@@ -1,0 +1,5 @@
+Criar funcionalidade para opção criar usuario
+Deve ser pedido o login e senha do usuario e inserido no banco
+
+Criar funcionalidade para opção buscar usuario
+O sistema pede o usuario e retorna todos os dados dele
